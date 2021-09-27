@@ -46,12 +46,13 @@ th{
 
                 /* /table head_body_rules */   
                 
-.may{
-    font-size: small;
-    color: lightgray;
-}
+
 
                 /* potrebbe interessarti */
+.may{
+     font-size: medium;
+     color: rgb(110, 110, 110);
+}
 
 .imac{
     background-image: url(../img/monitor.jpg);
@@ -65,6 +66,10 @@ th{
     height: 210px;
     background-repeat: no-repeat;
 
+}
+
+.overlayer_text{
+    color:white;
 }
 
                 /*/ potrebbe interessarti */
